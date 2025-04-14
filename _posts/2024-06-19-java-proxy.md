@@ -2,7 +2,7 @@
 title: Java 代理
 date: 2024-06-19 22:00:00 +0800
 categories: [Java]
-tags: [Java, Base]
+tags: [Java, Java Basic]
 ---
 
 

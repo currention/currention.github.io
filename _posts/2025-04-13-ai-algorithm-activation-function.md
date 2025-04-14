@@ -3,7 +3,7 @@ title: AI算法 - 激活函数
 description: 激活函数是神经网络中用于引入非线性因素的函数，它可以将输入信号转换为输出信号，从而使得神经网络能够处理非线性问题。本文介绍了常见的激活函数及其特点。
 keywords: AI,算法,激活函数
 categories: [AI]
-tags: [AI,算法]
+tags: [AI, 算法]
 math: true
 ---
 

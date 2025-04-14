@@ -2,7 +2,7 @@
 title: Java 双亲委派机制
 date: 2024-06-10 15:00:00 +0800
 categories: [Java]
-tags: [Java, Base]
+tags: [Java, Java Basic]
 ---
 
 双亲委派机制是Java类加载器的一种机制，用于确保Java类加载器在加载类时遵循一定的顺序，避免重复加载和加载错误。本文将介绍双亲委派机制的基本原理、实现方式以及其优缺点。

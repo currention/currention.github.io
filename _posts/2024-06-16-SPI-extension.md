@@ -2,7 +2,7 @@
 title: Java SPI 扩展
 date: 2024-06-16 10:00:00 +0800
 categories: [Java]
-tags: [Java, Base]
+tags: [Java, Java Basic]
 ---
 
 ## SPI 扩展
