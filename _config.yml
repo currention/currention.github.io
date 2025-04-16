@@ -16,7 +16,7 @@ timezone: Asia/Shanghai
 
 title: Currention # the main title
 
-tagline: 平平无奇工程师 # it will display as the subtitle
+tagline: 平平无奇，有点好奇 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -167,6 +167,9 @@ kramdown:
       start_line: 1
 
 collections:
+  java:
+    output: true
+    permalink: /:collection/:title/
   tabs:
     output: true
     sort_by: order
