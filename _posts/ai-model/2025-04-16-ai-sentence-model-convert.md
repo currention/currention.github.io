@@ -6,9 +6,15 @@ tags: [AI, AI实践]
 ---
 
 
-一般情况下，下载的 Embedding 模型有三层，分别是：Transformer 层、池化层、归一化层。
+一般情况下，下载的 `Embedding` 模型有三层，分别是：
+* Transformer 层
+* 池化层
+* 归一化层
 
-但是在ModelScope上下载模型 `sungw111/text2vec-base-chinese-sentence` 只有两层，分别是：Transformer 层、池化层。
+但是在ModelScope上下载模型 `sungw111/text2vec-base-chinese-sentence` 只有两层：
+* Transformer 层
+* 池化层
+  
 缺少了归一化层。因此，需要手动添加归一化层，进行模型转换。
 
 
